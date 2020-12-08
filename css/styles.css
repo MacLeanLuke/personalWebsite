@@ -84,6 +84,11 @@ a:hover{
   top: 40px;
 }
 
+.luke-img {
+  height: 260px;
+  width: 200px;
+}
+
 .bottom-cloud {
   position: absolute;
   left: 250px;
@@ -117,7 +122,7 @@ a:hover{
 
 .profile-disc {
   text-align: center;
-  
+
 }
 
 .contact-message {
