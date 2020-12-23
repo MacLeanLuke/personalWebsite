@@ -102,6 +102,13 @@ a:hover{
   margin-right: 30px;
 }
 
+.drummer {
+  width: 25%;
+  height: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
 .cat-coding {
   width: 25%;
   height: 25%;
