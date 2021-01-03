@@ -130,6 +130,13 @@ a:hover{
   margin-left: 30px;
 }
 
+.newsletter {
+  width: 25%;
+  height: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
 .cat-coding {
   width: 25%;
   height: 25%;
