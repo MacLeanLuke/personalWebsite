@@ -137,6 +137,13 @@ a:hover{
   margin-left: 30px;
 }
 
+.officeTodo {
+  width: 25%;
+  height: 25%;
+  float: left;
+  margin-left: 30px;
+}
+
 .cat-coding {
   width: 25%;
   height: 25%;
